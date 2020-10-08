@@ -1,4 +1,4 @@
-# insta_bot_simple
+# insta_bot_liker
 So far, he can find posts by tag or user and like them with pleasure. The rest is in development :)
 
 To start bot you need:
